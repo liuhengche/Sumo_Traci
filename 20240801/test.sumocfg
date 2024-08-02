@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <input>
+        <net-file value="test.net.xml"/>
+        <route-files value="test.rou.xml"/>
+    </input>
+
+    
+
+     <output>
+        <fcd-output value="FCD.xml"/>
+        <lanedata-output value="laneOutput.xml"/>
+        <edgedata-output value="edgeOutput.xml"/>
+    </output>
+</configuration>

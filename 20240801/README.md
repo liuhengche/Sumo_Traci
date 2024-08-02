@@ -19,15 +19,12 @@
 
 ### Tests
 - Original: Run by sumo by default. Note there are serveral critical time frames:
-    - "22": "test" is about to take over "1"
-![22](./pics/22.PNG)
-    - "33"~"34": "test" is about to change from lane 1 to lane 0 on edge e3.
-![33](./pics/33.PNG)
-![34](./pics/34.PNG)
-    - "56": "1" is about to take over "test"
-![56](./pics/56.PNG)
-    - "58": "2" is about to take over "test"
-![58](./pics/58.PNG)
+
+  - "22": "test" is about to take over "1" ![22](./pics/22.PNG)<br>
+  - "33"~"34": "test" is about to change from lane 1 to lane 0 on edge e3. ![33](./pics/33.PNG)  ![34](./pics/34.PNG)
+  - "56": "1" is about to take over "test" <br>![56](./pics/56.PNG)
+  - "58": "2" is about to take over "test" ![58](./pics/58.PNG)
+    
 - Acc: 
     - "22": Set the acceleration of "test" to 5.0 to take over "1" faster.
     - "33": Set the acceleration of "test" to -5.0 to slow down.

@@ -1,0 +1,7 @@
+interval_begin,interval_end,interval_id,edge_arrived,edge_density,edge_departed,edge_entered,edge_id,edge_laneChangedFrom,edge_laneChangedTo,edge_laneDensity,edge_left,edge_occupancy,edge_overlapTraveltime,edge_sampledSeconds,edge_speed,edge_speedRelative,edge_timeLoss,edge_traveltime,edge_waitingTime
+0.00,89.00,DEFAULT_EDGEDATA,0,9.64,5,0,e1,2,2,3.21,5,1.63,15.42,72.42,5.82,0.42,28.87,13.81,0.00
+0.00,89.00,DEFAULT_EDGEDATA,0,9.37,0,5,e2,0,0,3.12,5,1.49,12.83,64.20,6.42,0.46,21.98,11.53,0.00
+0.00,89.00,DEFAULT_EDGEDATA,0,8.29,0,5,e3,1,1,2.76,5,1.35,13.08,65.38,7.19,0.52,17.70,11.83,0.00
+0.00,89.00,DEFAULT_EDGEDATA,0,9.12,0,5,e4,2,2,3.04,5,1.51,15.38,76.87,6.51,0.47,25.31,13.64,0.00
+0.00,89.00,DEFAULT_EDGEDATA,0,10.00,0,5,e5,1,1,3.33,5,1.62,12.19,60.85,6.06,0.44,22.19,10.82,0.00
+0.00,89.00,DEFAULT_EDGEDATA,5,7.47,0,5,e6,0,0,2.49,0,1.27,13.14,64.31,7.78,0.56,14.27,12.47,0.00
